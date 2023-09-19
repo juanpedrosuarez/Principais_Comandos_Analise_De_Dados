@@ -1,1 +1,66 @@
+SUM: Soma os valores de uma coluna ou intervalo de células.
+
+AVERAGE: Calcula a média dos valores de uma coluna ou intervalo de células.
+
+COUNT: Conta o número de células não vazias em uma coluna ou intervalo de células.
+
+MAX: Retorna o valor máximo de uma coluna ou intervalo de células.
+
+MIN: Retorna o valor mínimo de uma coluna ou intervalo de células.
+
+IF: Realiza uma ação condicional, dependendo do valor de uma célula.
+
+VLOOKUP: Procura um valor em uma coluna e retorna o valor de outra coluna que corresponde ao valor encontrado.
+
+HLOOKUP: Procura um valor em uma linha e retorna o valor de outra linha que corresponde ao valor encontrado.
+
+COUNTIF: Conta o número de células que correspondem a um critério especificado.
+
+SUMIF: Soma os valores de uma coluna ou intervalo de células que correspondem a um critério especificado.
+
+AVERAGEIF: Calcula a média dos valores de uma coluna ou intervalo de células que correspondem a um critério especificado.
+
+AND: Retorna VERDADEIRO se todas as condições especificadas forem verdadeiras.
+
+OR: Retorna VERDADEIRO se pelo menos uma das condições especificadas for verdadeira.
+
+NOT: Retorna VERDADEIRO se a condição especificada for falsa.
+
+MATCH: Retorna a posição de um valor em uma coluna ou intervalo de células.
+
+Aqui estão alguns exemplos de como essas funções podem ser usadas:
+
+Para calcular o total de vendas de um produto, você pode usar a função SUM:
+=SUM(B2:B10)
+
+Para calcular a média de preços de um produto, você pode usar a função AVERAGE:
+=AVERAGE(C2:C10)
+
+Para contar o número de clientes que compraram um produto, você pode usar a função COUNT:
+=COUNT(D2:D10)
+
+Para encontrar o produto mais caro, você pode usar a função MAX:
+=MAX(E2:E10)
+
+Para encontrar o produto mais barato, você pode usar a função MIN:
+=MIN(E2:E10)
+
+Para verificar se um produto está disponível em estoque, você pode usar a função IF:
+=IF(D2>0,"Em estoque","Esgotado")
+
+Para encontrar o código do produto de um cliente específico, você pode usar a função VLOOKUP:
+=VLOOKUP(A2,B:C,1,0)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
