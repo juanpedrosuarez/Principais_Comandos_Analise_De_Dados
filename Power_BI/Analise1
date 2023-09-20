@@ -1,1 +1,122 @@
+Linguagem M
+
+A linguagem M é uma linguagem de script de fluxo de trabalho usada no Power BI para manipular 
+dados e criar relatórios. É uma linguagem poderosa que pode ser usada para realizar uma ampla gama
+de tarefas, incluindo:
+
+Importar dados de uma variedade de fontes, incluindo arquivos CSV, Excel, SQL e OLAP.
+Limpar e transformar dados para prepará-los para análise.
+Criar medidas e tabelas calculadas para realizar cálculos personalizados.
+Conectar-se a serviços de dados externos, como Azure Analysis Services e Azure Data Lake Storage.
+
+Alguns dos principais comandos e funções da linguagem M incluem:
+
+Importar dados:
+In_memory_dataset: Cria um conjunto de dados em memória.
+
+From_file: Importa dados de um arquivo.
+
+From_sql: Importa dados de um banco de dados SQL.
+
+Limpeza de dados:
+Clean: Remove linhas ou colunas de um conjunto de dados.
+
+Replace: Substitui valores em um conjunto de dados.
+
+Remove_duplicates: Remove duplicatas de um conjunto de dados.
+
+Transformação de dados:
+Calculate: Realiza um cálculo em um conjunto de dados.
+
+Add: Adiciona valores a um conjunto de dados.
+
+Subtract: Subtrai valores de um conjunto de dados.
+
+Criação de medidas e tabelas calculadas:
+Measure: Cria uma medida calculada.
+
+Table: Cria uma tabela calculada.
+
+Conexão a serviços de dados externos:
+
+Connection: Cria uma conexão a um serviço de dados externo.
+
+Query: Consulta um serviço de dados externo.
+
+Linguagem DAX
+
+A linguagem DAX é uma linguagem de fórmula usada no Power BI para criar
+medidas e tabelas calculadas. É uma linguagem poderosa que pode ser usada 
+para realizar uma ampla gama de cálculos, incluindo:
+
+Calcular totais, médias e outras agregações.
+Criar medidas calculadas que dependem de outros valores.
+Criar tabelas calculadas que combinam dados de diferentes fontes.
+Alguns dos principais comandos e funções da linguagem DAX incluem:
+
+Cálculos de agregação:
+SUM: Soma valores.
+
+AVERAGE: Calcula a média de valores.
+
+COUNT: Conta o número de valores.
+
+Cálculos dependentes:
+IF: Realiza uma ação condicional, dependendo do valor de uma célula.
+
+SWITCH: Realiza uma ação condicional, dependendo do valor de uma célula.
+
+CASE: Realiza uma ação condicional, dependendo do valor de uma célula.
+
+Cálculos de tabelas calculadas:
+FILTER: Filtra uma tabela com base em um critério.
+
+DISTINCT: Retorna uma lista de valores distintos de uma tabela.
+
+CROSSJOIN: Combina duas tabelas em uma nova tabela.
+
+Aplicações de M e DAX no Power BI
+
+
+M e DAX são duas ferramentas poderosas que podem ser usadas para criar relatórios
+e dashboards eficazes no Power BI. Com um pouco de prática, você poderá usar essas
+linguagens para realizar uma ampla gama de tarefas, desde a importação de dados até 
+a criação de cálculos personalizados.
+
+Aqui estão alguns exemplos de como M e DAX podem ser usados no Power BI:
+
+Importar dados de uma variedade de fontes: M pode ser usado para importar dados de uma 
+variedade de fontes, incluindo arquivos CSV, Excel, SQL e OLAP. Isso permite que você use
+o Power BI para analisar dados de qualquer fonte.
+Limpeza e transformação de dados: M e DAX podem ser usados para limpar e transformar dados
+para prepará-los para análise. Isso pode incluir a remoção de linhas ou colunas duplicadas,
+a substituição de valores inválidos e a criação de novas colunas calculadas.
+Criação de medidas e tabelas calculadas: M e DAX podem ser usados para criar medidas e tabelas
+calculadas para realizar cálculos personalizados. Isso pode incluir a criação de totais, médias
+e outras agregações, bem como a criação de medidas que dependem de outros valores.
+Conexão a serviços de dados externos: M e DAX podem ser usados para conectar-se a serviços de dados
+externos, como Azure Analysis Services e Azure Data Lake Storage. Isso permite que você use o Power BI
+para analisar dados armazenados em serviços de dados externos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
